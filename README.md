@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- CABEÇALHO ANIMADO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+John!+%F0%9F%91%8B;Estudante+de+Desenvolvimento+de+Sistemas;Transformando+ideias+em+projetos+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+John!+%F0%9F%91%8B;Seja+Bem-Vindo(a)+ao+meu+GitHub!;Transformando+ideias+em+projetos+%F0%9F%92%BB" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Animação de programação" />
 
