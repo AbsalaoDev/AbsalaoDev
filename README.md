@@ -9,7 +9,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=AbsalaoDev&color=8A2BE2&style=flat-square&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil">
+<picture>
+  <img src="https://komarev.com/ghpvc/?username=AbsalaoDev&color=8A2BE2&style=flat-square&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil">
+</picture>
 
 <!-- ONDA INFERIOR -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17151D,50:8A2BE2,100:17151D&height=130&section=footer" width="100%" />
