@@ -81,16 +81,10 @@ Alguns projetos e experiências que fazem parte da minha trajetória:
 
 ## 📊 Estatísticas do GitHub
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/AbsalaoDev/AbsalaoDev/stats/stats.svg" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/AbsalaoDev/AbsalaoDev/stats/languages.svg" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AbsalaoDev/AbsalaoDev/stats/stats.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/AbsalaoDev/AbsalaoDev/stats/languages.svg" width="49%" />
+</div>
 
 ---
 
