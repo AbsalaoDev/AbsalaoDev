@@ -55,7 +55,7 @@ def get_stats():
 
 def create_card(title, lines, filename):
     width = 480
-    height = 220
+    height = 230
 
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg"
     width="{width}" height="{height}" viewBox="0 0 {width} {height}">
@@ -70,16 +70,16 @@ def create_card(title, lines, filename):
     stroke="#30363d"/>
     '''
 
-    y = 85
+    y = 88
 
     for line in lines:
         svg += f'''
         <text x="30" y="{y}" fill="#e6edf3"
-        font-size="13" font-family="Arial">
+        font-size="14" font-family="Arial">
         {html.escape(str(line))}
         </text>
         '''
-        y += 27
+        y += 28
 
     svg += "</svg>"
 
