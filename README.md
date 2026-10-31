@@ -113,7 +113,7 @@ Alguns projetos e experiências que fazem parte da minha trajetória:
 
 <br>
 
-<sub><i>Nenhuma mudança acontece sem coragem pra começar.</i></sub>
+<sub>𓃠<i>Nenhuma mudança acontece sem coragem pra começar.</i>𓆝</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17151D,30:5B21B6,70:8A2BE2,100:17151D&height=90&section=footer&animation=twinkling" width="100%" />
 
