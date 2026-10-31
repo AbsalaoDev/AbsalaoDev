@@ -1,3 +1,4 @@
+
 import json
 import os
 import urllib.request
@@ -5,6 +6,7 @@ import html
 
 USERNAME = "AbsalaoDev"
 API = "https://api.github.com"
+
 
 def github_request(endpoint):
     url = API + endpoint
@@ -18,6 +20,7 @@ def github_request(endpoint):
 
     with urllib.request.urlopen(request) as response:
         return json.loads(response.read())
+
 
 def get_stats():
     user = github_request(f"/users/{USERNAME}")
@@ -34,7 +37,9 @@ def get_stats():
         if repo["fork"]:
             continue
 
-        data = github_request(f"/repos/{USERNAME}/{repo['name']}/languages")
+        data = github_request(
+            f"/repos/{USERNAME}/{repo['name']}/languages"
+        )
 
         for language, size in data.items():
             languages[language] = languages.get(language, 0) + size
@@ -47,9 +52,10 @@ def get_stats():
 
     return user, len(repos), stars, forks, top_languages
 
+
 def create_card(title, lines, filename):
     width = 480
-    height = 190
+    height = 220
 
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg"
     width="{width}" height="{height}" viewBox="0 0 {width} {height}">
@@ -64,21 +70,22 @@ def create_card(title, lines, filename):
     stroke="#30363d"/>
     '''
 
-    y = 88
+    y = 85
 
     for line in lines:
         svg += f'''
         <text x="30" y="{y}" fill="#e6edf3"
-        font-size="15" font-family="Arial">
+        font-size="13" font-family="Arial">
         {html.escape(str(line))}
         </text>
         '''
-        y += 25
+        y += 27
 
     svg += "</svg>"
 
     with open(f"public/{filename}", "w", encoding="utf-8") as file:
         file.write(svg)
+
 
 def main():
     os.makedirs("public", exist_ok=True)
@@ -97,10 +104,20 @@ def main():
         for name, size in languages
     ]
 
-    create_card("Estatísticas do GitHub", stats, "stats.svg")
-    create_card("Linguagens mais utilizadas", language_lines, "languages.svg")
+    create_card(
+        "Estatísticas do GitHub",
+        stats,
+        "stats.svg"
+    )
+
+    create_card(
+        "Linguagens mais utilizadas",
+        language_lines,
+        "languages.svg"
+    )
 
     print("Cartões gerados com sucesso!")
+
 
 if __name__ == "__main__":
     main()
