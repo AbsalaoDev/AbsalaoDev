@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- ONDA SUPERIOR -->
@@ -20,23 +19,23 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+👨‍💻 **Sobre mim**
 
-Olá! Sou **John**, estudante de Desenvolvimento de Sistemas pelo SENAI.
+Olá! Sou **John**, estudante de **Desenvolvimento de Sistemas pelo SENAI**.
 
-Tenho interesse em desenvolvimento de software, desenvolvimento web e criação de soluções utilizando tecnologia.
+Tenho interesse em **desenvolvimento de software**, **desenvolvimento web** e criação de soluções utilizando tecnologia.
 
 Gosto de explorar diferentes áreas da programação, aprender novas ferramentas e transformar ideias em projetos.
 
-- 🎓 Estudante de Desenvolvimento de Sistemas.
-- 💻 Interessado em desenvolvimento Full Stack.
+- 🎓 Estudante de **Desenvolvimento de Sistemas**.
+- 💻 Interessado em **desenvolvimento Full Stack**.
 - 🌱 Sempre aprendendo e aprimorando minhas habilidades.
 - 🚀 Construindo projetos e experiências na programação.
-- 🎯 Meu objetivo é evoluir como desenvolvedor e criar soluções úteis.
+- 🎯 Meu objetivo é evoluir como **desenvolvedor** e criar soluções úteis.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+🛠️ **Tecnologias e ferramentas**
 
 ### Linguagens e desenvolvimento
 
@@ -56,30 +55,30 @@ Gosto de explorar diferentes áreas da programação, aprender novas ferramentas
 
 ---
 
-## 📚 Atualmente estudando
+📚 **Atualmente estudando**
 
-- Java e programação orientada a objetos.
-- JavaScript e desenvolvimento web.
-- PHP e integração com bancos de dados.
-- SQL e modelagem de bancos de dados.
-- Git e GitHub para versionamento de código.
+- **Java** e programação orientada a objetos.
+- **JavaScript** e desenvolvimento web.
+- **PHP** e integração com bancos de dados.
+- **SQL** e modelagem de bancos de dados.
+- **Git e GitHub** para versionamento de código.
 
 ---
 
-## 🚀 Projetos
+🚀 **Projetos**
 
 Alguns projetos e experiências que fazem parte da minha trajetória:
 
 | Projeto | Descrição |
 |---|---|
-| E-CIPA | Sistema de votação escolar desenvolvido em equipe, com integração a banco de dados. |
-| Grêmio Estudantil | Desenvolvimento e manutenção do site do Grêmio, com recursos e informações para os estudantes. |
+| **E-CIPA** | Sistema de votação escolar desenvolvido em equipe, com **integração a banco de dados**. |
+| **Grêmio Estudantil** | Desenvolvimento e manutenção do **site do Grêmio**, com recursos e informações para os estudantes. |
 
 *Mais projetos serão adicionados conforme minha evolução.*
 
 ---
 
-## 📊 Estatísticas do GitHub
+📊 **Estatísticas do GitHub**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AbsalaoDev/AbsalaoDev/stats/stats.svg" width="49%" />
@@ -88,7 +87,7 @@ Alguns projetos e experiências que fazem parte da minha trajetória:
 
 ---
 
-## 🐍 Contribuições
+🐍 **Contribuições**
 
 <div align="center">
 
@@ -98,22 +97,24 @@ Alguns projetos e experiências que fazem parte da minha trajetória:
 
 ---
 
-## 🌐 Onde me encontrar
+🌐 **Onde me encontrar**
 
 <div align="center">
 
-<a href="https://github.com/AbsalaoDev">
-  <img src="https://img.shields.io/badge/GitHub-AbsalaoDev-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://github.com/AbsalaoDev">
+    <img src="https://img.shields.io/badge/GitHub-AbsalaoDev-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/jhsntts/">
+    <img src="https://img.shields.io/badge/Instagram-jhsntts-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-</div>
+<br>
 
----
+<sub><i>Nenhuma mudança acontece sem coragem pra começar.</i></sub>
 
-<div align="center">
-
-## 💜 "Toda grande aplicação começa com uma linha de código."
-
-*Obrigado por visitar meu perfil!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17151D,30:5B21B6,70:8A2BE2,100:17151D&height=90&section=footer&animation=twinkling" width="100%" />
 
 </div>
