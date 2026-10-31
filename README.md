@@ -91,17 +91,17 @@ Alguns projetos e experiências que fazem parte da minha trajetória:
 
 ---
 
-## 🐍 Minha atividade no GitHub
+## 🐍 Contribuições
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AbsalaoDev/AbsalaoDev/output/github-contribution-grid-snake-dark.svg" alt="Animação da atividade no GitHub" />
+<img src="https://raw.githubusercontent.com/AbsalaoDev/AbsalaoDev/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições" width="100%" />
 
 </div>
 
 ---
 
-## 📫 Contato
+## 🌐 Onde me encontrar
 
 <div align="center">
 
@@ -115,8 +115,8 @@ Alguns projetos e experiências que fazem parte da minha trajetória:
 
 <div align="center">
 
-### 💜 "Toda grande aplicação começa com uma linha de código."
+## 💜 "Toda grande aplicação começa com uma linha de código."
 
-**Obrigado pela visita!**
+*Obrigado por visitar meu perfil!*
 
 </div>
