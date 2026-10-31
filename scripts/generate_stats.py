@@ -10,6 +10,7 @@ API = "https://api.github.com"
 
 def github_request(endpoint):
     url = API + endpoint
+
     request = urllib.request.Request(
         url,
         headers={
@@ -24,6 +25,7 @@ def github_request(endpoint):
 
 def get_stats():
     user = github_request(f"/users/{USERNAME}")
+
     repos = github_request(
         f"/users/{USERNAME}/repos?per_page=100&type=owner"
     )
@@ -55,10 +57,11 @@ def get_stats():
 
 def create_card(title, lines, filename):
     width = 480
-    height = 230
+    height = 220
 
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg"
     width="{width}" height="{height}" viewBox="0 0 {width} {height}">
+
     <rect width="100%" height="100%" rx="12"
     fill="#0d1117" stroke="#8A2BE2" stroke-width="1.5"/>
 
@@ -70,7 +73,7 @@ def create_card(title, lines, filename):
     stroke="#30363d"/>
     '''
 
-    y = 88
+    y = 85
 
     for line in lines:
         svg += f'''
@@ -79,11 +82,16 @@ def create_card(title, lines, filename):
         {html.escape(str(line))}
         </text>
         '''
-        y += 28
+
+        y += 25
 
     svg += "</svg>"
 
-    with open(f"public/{filename}", "w", encoding="utf-8") as file:
+    with open(
+        f"public/{filename}",
+        "w",
+        encoding="utf-8"
+    ) as file:
         file.write(svg)
 
 
