@@ -83,9 +83,9 @@ Alguns projetos e experiências que fazem parte da minha trajetória:
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AbsalaoDev&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" />
+<img height="220" src="https://raw.githubusercontent.com/AbsalaoDev/AbsalaoDev/stats/stats.svg"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbsalaoDev&layout=compact&theme=midnight-purple&hide_border=true" />
+<img height="220" src="https://raw.githubusercontent.com/AbsalaoDev/AbsalaoDev/stats/languages.svg"/>
 
 </div>
 
