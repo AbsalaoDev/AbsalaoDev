@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-    width="480" height="190" viewBox="0 0 480 190">
+    width="480" height="220" viewBox="0 0 480 220">
+
     <rect width="100%" height="100%" rx="12"
     fill="#0d1117" stroke="#8A2BE2" stroke-width="1.5"/>
 
@@ -10,28 +11,28 @@
     <line x1="25" y1="53" x2="455" y2="53"
     stroke="#30363d"/>
     
-        <text x="30" y="88" fill="#e6edf3"
-        font-size="15" font-family="Arial">
+        <text x="30" y="85" fill="#e6edf3"
+        font-size="14" font-family="Arial">
         HTML: 15,556 bytes
         </text>
         
-        <text x="30" y="113" fill="#e6edf3"
-        font-size="15" font-family="Arial">
+        <text x="30" y="110" fill="#e6edf3"
+        font-size="14" font-family="Arial">
         CSS: 10,119 bytes
         </text>
         
-        <text x="30" y="138" fill="#e6edf3"
-        font-size="15" font-family="Arial">
+        <text x="30" y="135" fill="#e6edf3"
+        font-size="14" font-family="Arial">
         JavaScript: 8,151 bytes
         </text>
         
-        <text x="30" y="163" fill="#e6edf3"
-        font-size="15" font-family="Arial">
-        PHP: 6,106 bytes
+        <text x="30" y="160" fill="#e6edf3"
+        font-size="14" font-family="Arial">
+        Java: 7,103 bytes
         </text>
         
-        <text x="30" y="188" fill="#e6edf3"
-        font-size="15" font-family="Arial">
-        Python: 2,648 bytes
+        <text x="30" y="185" fill="#e6edf3"
+        font-size="14" font-family="Arial">
+        PHP: 6,106 bytes
         </text>
         </svg>
