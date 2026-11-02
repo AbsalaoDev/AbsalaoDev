@@ -13,22 +13,22 @@
     
         <text x="30" y="85" fill="#e6edf3"
         font-size="14" font-family="Arial">
-        HTML: 15,556 bytes
+        Java: 16,015 bytes
         </text>
         
         <text x="30" y="110" fill="#e6edf3"
         font-size="14" font-family="Arial">
-        CSS: 10,119 bytes
+        HTML: 15,556 bytes
         </text>
         
         <text x="30" y="135" fill="#e6edf3"
         font-size="14" font-family="Arial">
-        JavaScript: 8,151 bytes
+        CSS: 10,119 bytes
         </text>
         
         <text x="30" y="160" fill="#e6edf3"
         font-size="14" font-family="Arial">
-        Java: 7,103 bytes
+        JavaScript: 8,151 bytes
         </text>
         
         <text x="30" y="185" fill="#e6edf3"
